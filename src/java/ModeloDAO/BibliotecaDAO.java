@@ -9,6 +9,6 @@ package ModeloDAO;
  *
  * @author GAMER
  */
-public class EstudianteDAO {
+public class BibliotecaDAO {
     
 }
